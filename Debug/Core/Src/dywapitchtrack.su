@@ -1,0 +1,11 @@
+../Core/Src/dywapitchtrack.c:49:5:_power2p	16	static
+../Core/Src/dywapitchtrack.c:57:5:_bitcount	16	static
+../Core/Src/dywapitchtrack.c:65:5:_ceil_power2	32	static
+../Core/Src/dywapitchtrack.c:76:5:_floor_power2	16	static
+../Core/Src/dywapitchtrack.c:82:5:_iabs	16	static
+../Core/Src/dywapitchtrack.c:88:5:_2power	24	static
+../Core/Src/dywapitchtrack.c:98:5:dywapitch_neededsamplecount	24	static
+../Core/Src/dywapitchtrack.c:109:8:_dywapitch_computeWaveletPitch	296	static
+../Core/Src/dywapitchtrack.c:357:8:_dywapitch_dynamicprocess	56	static
+../Core/Src/dywapitchtrack.c:441:6:dywapitch_inittracking	16	static
+../Core/Src/dywapitchtrack.c:446:8:dywapitch_computepitch	32	static
